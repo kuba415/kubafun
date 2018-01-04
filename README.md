@@ -1,24 +1,7 @@
-# README
+# One Moth Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample app for testing Pendo.
 
-Things you may want to cover:
+[*Pendo*](https://www.pendo.io)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+by [Jakub Glodek](mailto:jakub.glodek@gmail.com)
