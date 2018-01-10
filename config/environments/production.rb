@@ -62,6 +62,9 @@ Rails.application.configure do
   # config.active_job.queue_name_prefix = "pendoing_#{Rails.env}"
   config.action_mailer.perform_caching = false
 
+  # Required for Heroku.
+  config.action_mailer.default_url_options = { host: 'http://pendoing.herokuapp.com/' }
+
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
   # config.action_mailer.raise_delivery_errors = false
