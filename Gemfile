@@ -18,7 +18,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'devise', '~> 4.4.0'
-gem "paperclip", "~> 5.1.0"
+gem "paperclip", '~> 5.1.0'
 gem 'aws-sdk', '~> 2.3'
 gem 'masonry-rails', '~> 0.2.0'
 
